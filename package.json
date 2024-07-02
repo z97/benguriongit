@@ -1,0 +1,16 @@
+{
+    "name": "ben-gurion-flights",
+    "version": "1.0.0",
+    "description": "A web app to display flights from/to Ben Gurion Airport in the next 12 hours using AeroDataBox API.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+      "dotenv": "^16.4.5",
+      "express": "^4.19.2",
+      "node-fetch": "^2.7.0"
+    }
+  }
